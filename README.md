@@ -3,6 +3,7 @@
 В книге представляется идея приложения и лишь некоторые моменты реализации, основная часть оставляется как упражнение читателю.
 ## Описание
 Географическая викторина с возможностью посмотреть ответы и результаты.    
+<img src="https://github.com/BelDim04/bignerdranchGeoQuiz/blob/master/Screenshot_20210718-105203.png" alt="Иллюстрация" width="250"/>
 ![Иллюстрация](https://github.com/BelDim04/bignerdranchGeoQuiz/blob/master/Screenshot_20210718-105203.png)
 ![Иллюстрация](https://github.com/BelDim04/bignerdranchGeoQuiz/blob/master/Screenshot_20210718-105006.png)
 ![Иллюстрация](https://github.com/BelDim04/bignerdranchGeoQuiz/blob/master/Screenshot_20210718-105124.png)
